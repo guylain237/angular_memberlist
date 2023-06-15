@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "firstName": "florian",
+      "lastName": "femme",
+      "Email": "20",
+      "Mobile": "douala",
+      "Salary": "2022-05-20",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
